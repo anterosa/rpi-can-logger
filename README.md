@@ -80,7 +80,7 @@ sudo apt update
 sudo apt install git make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev xz-utils bluez python-bluez pi-bluetooth python3-yaml python-yaml
 curl -L https://raw.githubusercontent.com/pyenv/pyenv-installer/master/bin/pyenv-installer | bash
 env PYTHON_CONFIGURE_OPTS="--enable-shared" pyenv install 3.6.2
-git clone https://github.com/JonnoFTW/rpi-can-logger.git
+git clone https://github.com/anterosa/rpi-can-logger.git
 ````
 ### Install Rpi-Logger
 
